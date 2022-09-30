@@ -1,4 +1,4 @@
-#include <MHTinyCDC.h>
+#include <DigiCDC.h>
 void setup() {                
   // initialize the digital pin as an output.
   SerialUSB.begin(); 
