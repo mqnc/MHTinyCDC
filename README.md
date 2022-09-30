@@ -3,6 +3,7 @@ Copy of the DigiCDC library, added configurations to work with the MH-ET LIVE Ti
 
 ## Installation
 Download as zip from github (Code▼ -> Download ZIP)
+
 In Arduino IDE: Sketch -> Include Library -> Add .ZIP Library
 
 ## Usage
