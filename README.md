@@ -1,6 +1,9 @@
 # MHTinyCDC
 Copy of the DigiCDC library, added configurations to work with the MH-ET LIVE Tiny88 board
 
+## DOESN'T WORK
+Please check out this issue: https://github.com/mqnc/MHTinyCDC/issues/3
+
 ## Installation
 Download as zip from github (Code▼ -> Download ZIP)
 
